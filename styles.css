@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #d9d3ca;
+    color: #1f1f1d;
+}
+
+.recipe-link {
+    font-weight: bold;
+}
+
+img.photo {
+    height: 500px;
+    width: auto;
+}
